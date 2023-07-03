@@ -9,6 +9,6 @@ Iranian Doz Game or Doz Game is a two-person intellectual game 🎮 that is play
 
 Win Rule ⚖️
 
-1 . Tree same color Continuous give +1 score .
-2 . The nuts are Decussate .
-3 . In the midle is pointer to show the turn .
+1 . Tree same color Continuous give +1 score - 
+2 . The nuts are Decussate - 
+3 . In the midle is pointer to show the turn - 
