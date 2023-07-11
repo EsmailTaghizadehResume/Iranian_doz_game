@@ -17,3 +17,7 @@ Iranian Doz Game or Doz Game is a two-person intellectual game 🎮 that is play
 
 3 . In the midle is pointer to show the turn -
 
+# Single Game 🧑 & 💻
+
+in this file I add computer_turn for playing user with computer , for this function I use random library and add new rule for it this rule sayes that if you or
+computer win , you're ball's or computer ball's -1 and this is make this game more beautiful.
